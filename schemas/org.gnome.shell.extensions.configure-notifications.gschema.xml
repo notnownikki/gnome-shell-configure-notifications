@@ -1,0 +1,9 @@
+<schemalist>
+  <schema id="org.gnome.shell.extensions.configure-notifications" path="/org/gnome/shell/extensions/configure-notifications/">
+    <key name="timeout" type="i">
+      <default>4</default>
+      <summary>Timeout</summary>
+      <description>How long until the notifications are dismissed, in seconds.</description>
+    </key>
+  </schema>
+</schemalist>
